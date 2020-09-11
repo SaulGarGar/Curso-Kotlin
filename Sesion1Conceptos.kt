@@ -19,14 +19,5 @@ solucionar un problema,
     var numero = 5
 
 
-//Declaración de una variable
-//Existen variables y constantes
-//Las variables se declaran usando la palabra reservada "var" y pueden cambiar su valor n veces durante el tiempo de ejecución.
-    var nombreVariable = "Hector"
-
-//Las constantes se declaran usando la palabra reservada "val" y el primer valor que se le asigna será su valor definitivo. NO PUEDE SER CAMBIADO
-    val nombreConstante = "Carlos"
- 
-
 
  
