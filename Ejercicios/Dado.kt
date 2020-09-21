@@ -9,7 +9,7 @@ fun main(){
 //2.- Construimos la función que muestre el resultado
 fun tirarDado(){
     if(dado == 1){
-        println("Cayó sol")
+        println("Cayó 1")
     }
     else if(dado == 2){
         println("Cayó 2")
